@@ -9,9 +9,10 @@
   <img src="https://imgur.com/obe4eCv.png" width="200">
 </div>
 <br>
-<div align="center">
-  <img src="https://img.shields.io/badge/Teté_💜​-black" />
+ <div align="center">
+  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FEsterAlvex&s=21&c=9745f5&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
 </div>
+
 
 <br>
 <br>
@@ -47,11 +48,9 @@
   </div>
 
   <br>
-  
-  <div align="center">
-  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FEsterAlvex&s=21&c=9745f5&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
-</div>
 
+
+  
 <br>
 <br>
 
@@ -92,7 +91,9 @@
 ![express](https://img.shields.io/badge/-express-0D1117?style=for-the-badge&logo=express&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-
+<div align="center">
+  <img src="https://img.shields.io/badge/Teté_💜​-black" />
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9745f5&height=120&section=footer"/>
 
